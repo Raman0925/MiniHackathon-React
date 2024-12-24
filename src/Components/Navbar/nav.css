@@ -1,0 +1,77 @@
+
+.head-container{
+    line-height: 12.1px;
+    background-color: #000342;
+    display: flex;
+    align-items: center;
+    
+    
+    gap: 16px;
+    
+    
+    padding: 20px 4px;
+    flex-direction: column;
+    width: 68px;
+    height: 822px;
+    color:white;
+    padding: 20px 4px 20px 4px;
+    
+    
+}
+.hv-logo{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    margin: 0 auto;
+
+    width: 48px;
+    height: 48px;
+    
+
+}
+
+.home{
+    display: flex;
+    flex-direction: column;
+    
+    padding: 8px 4px 8px 4px;
+    color: #B2B3CA;
+    gap: 2px;
+    font-size: 10px;
+    border-radius: 4px;
+    align-items: center;
+}
+nav{
+    font-size: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+    padding-right:4px;
+    
+    
+
+}
+.links-container{
+    display: flex;
+    gap:12px;
+    flex-direction: column;
+    align-items: center;
+    width: 66px;
+    height: 414px;
+
+}
+.nav-items{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-weight: 500;
+    color: #D9D9DD;
+    line-height: 12.1px;
+    gap:2.4px;
+    padding:9.6px 4.8px 9.6px 4.8px;
+        
+
+
+
+}
