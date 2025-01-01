@@ -9,8 +9,9 @@ import analytics from "../../assets/Analytics.png";
 import account from "../../assets/Account.png";
 import workflow from "../../assets/workflow.png";
 
-
 const  Navbar = () => {
+  
+
   return (
     <header className="head-container">
       <div className="hv-logo">
